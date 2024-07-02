@@ -1,0 +1,3 @@
+joonha = input()
+
+print(joonha + "??!")
