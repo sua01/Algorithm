@@ -5,6 +5,8 @@
     "xstring": "cpp",
     "iostream": "cpp",
     "stack": "cpp",
-    "cstdio": "cpp"
+    "cstdio": "cpp",
+    "deque": "cpp",
+    "queue": "cpp"
   }
 }
